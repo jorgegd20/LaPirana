@@ -15619,8 +15619,38 @@
   "RootNamespace": "LaPirana",
   "Documents": [
     {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Presentacion\\Contacto.cshtml",
+      "TargetPath": "Views\\Presentacion\\Contacto.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Compra\\Resumen.cshtml",
+      "TargetPath": "Views\\Compra\\Resumen.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Cuenta\\Registro.cshtml",
+      "TargetPath": "Views\\Cuenta\\Registro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Cuenta\\Actualizar.cshtml",
+      "TargetPath": "Views\\Cuenta\\Actualizar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Venta\\Servicios.cshtml",
+      "TargetPath": "Views\\Venta\\Servicios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Cuenta\\Iniciar.cshtml",
+      "TargetPath": "Views\\Cuenta\\Iniciar.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15634,13 +15664,38 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Presentacion\\Somos.cshtml",
+      "TargetPath": "Views\\Presentacion\\Somos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Venta\\Catalogo.cshtml",
+      "TargetPath": "Views\\Venta\\Catalogo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Presentacion\\Servicios.cshtml",
+      "TargetPath": "Views\\Presentacion\\Servicios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Compra\\Pagar.cshtml",
+      "TargetPath": "Views\\Compra\\Pagar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "j:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\Views\\Venta\\ProductosDestacados.cshtml",
+      "TargetPath": "Views\\Venta\\ProductosDestacados.cshtml",
       "FileKind": "mvc"
     },
     {

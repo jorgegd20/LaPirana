@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\LaPirana.csproj": {}
+    "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\lapirana\\LaPirana.csproj": {}
   },
   "projects": {
-    "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\LaPirana.csproj": {
+    "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\lapirana\\LaPirana.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\LaPirana.csproj",
+        "projectUniqueName": "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\lapirana\\LaPirana.csproj",
         "projectName": "LaPirana",
-        "projectPath": "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\LaPirana.csproj",
+        "projectPath": "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\lapirana\\LaPirana.csproj",
         "packagesPath": "C:\\Users\\W10\\.nuget\\packages\\",
-        "outputPath": "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\LaPirana\\obj\\",
+        "outputPath": "J:\\USMP\\2021-I\\PROGRAMACIÓN I\\Semana 08\\Clase 01\\LaPirana\\lapirana\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\W10\\AppData\\Roaming\\NuGet\\NuGet.Config",
